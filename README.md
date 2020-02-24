@@ -1,4 +1,4 @@
-# SSM_Base_Spring_Database
+# SSM_Base_Spring_Database（Project_T3）
 
 使用到的Spring的bean有：
 数据源：org.springframework.jdbc.datasource.DriverManagerDataSource
